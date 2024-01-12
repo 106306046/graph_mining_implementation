@@ -1,0 +1,314 @@
+2023-06-02 18:41:53,867:INFO: ================================================================================
+2023-06-02 18:41:53,867:INFO: Summary of normal model training process:
+2023-06-02 18:41:53,868:INFO: Dataset: CIFAR10-alpha50.0-ratio1.0-users10
+2023-06-02 18:41:53,868:INFO: model: resnet18
+2023-06-02 18:41:53,868:INFO: Device: cuda
+2023-06-02 18:41:53,868:INFO: Number of global rounds: 150
+2023-06-02 18:41:53,868:INFO: Number of local rounds: 10
+2023-06-02 18:41:53,868:INFO: Clents' learning rate: 0.1
+2023-06-02 18:41:53,868:INFO: ================================================================================
+2023-06-02 18:42:31,837:INFO: ================================================================================
+2023-06-02 18:42:31,837:INFO: Summary of normal model training process:
+2023-06-02 18:42:31,837:INFO: Dataset: CIFAR10-alpha50.0-ratio1.0-users10
+2023-06-02 18:42:31,837:INFO: model: resnet18
+2023-06-02 18:42:31,837:INFO: Device: cpu
+2023-06-02 18:42:31,837:INFO: Number of global rounds: 150
+2023-06-02 18:42:31,837:INFO: Number of local rounds: 10
+2023-06-02 18:42:31,838:INFO: Clents' learning rate: 0.1
+2023-06-02 18:42:31,838:INFO: ================================================================================
+2023-06-02 18:54:43,113:INFO: ================================================================================
+2023-06-02 18:54:43,113:INFO: Summary of normal model training process:
+2023-06-02 18:54:43,113:INFO: Dataset: CIFAR10-alpha50.0-ratio1.0-users10
+2023-06-02 18:54:43,113:INFO: model: resnet18
+2023-06-02 18:54:43,113:INFO: Device: cpu
+2023-06-02 18:54:43,113:INFO: Number of global rounds: 150
+2023-06-02 18:54:43,113:INFO: Number of local rounds: 10
+2023-06-02 18:54:43,113:INFO: Clents' learning rate: 0.1
+2023-06-02 18:54:43,113:INFO: ================================================================================
+2023-06-02 18:54:43,586:INFO: Users in total: 10
+2023-06-02 18:54:43,848:INFO: Number of users per round / total users: 10 / 10
+2023-06-02 18:54:43,848:INFO: Finished creating FedAvg server.
+2023-06-02 18:54:43,849:INFO: 
+
+-------------Round number: 0 -------------
+
+
+2023-06-02 18:55:34,361:INFO: ================================================================================
+2023-06-02 18:55:34,361:INFO: Summary of normal model training process:
+2023-06-02 18:55:34,361:INFO: Dataset: CIFAR10-alpha50.0-ratio1.0-users10
+2023-06-02 18:55:34,361:INFO: model: resnet18
+2023-06-02 18:55:34,361:INFO: Device: cpu
+2023-06-02 18:55:34,361:INFO: Number of global rounds: 150
+2023-06-02 18:55:34,361:INFO: Number of local rounds: 10
+2023-06-02 18:55:34,361:INFO: Clents' learning rate: 0.1
+2023-06-02 18:55:34,361:INFO: ================================================================================
+2023-06-02 18:55:34,498:INFO: Users in total: 10
+2023-06-02 18:55:34,755:INFO: Number of users per round / total users: 10 / 10
+2023-06-02 18:55:34,756:INFO: Finished creating FedAvg server.
+2023-06-02 18:55:34,756:INFO: 
+
+-------------Round number: 0 -------------
+
+
+2023-06-02 18:56:09,360:INFO: ================================================================================
+2023-06-02 18:56:09,360:INFO: Summary of normal model training process:
+2023-06-02 18:56:09,360:INFO: Dataset: CIFAR10-alpha50.0-ratio1.0-users10
+2023-06-02 18:56:09,360:INFO: model: resnet18
+2023-06-02 18:56:09,360:INFO: Device: cpu
+2023-06-02 18:56:09,360:INFO: Number of global rounds: 150
+2023-06-02 18:56:09,360:INFO: Number of local rounds: 10
+2023-06-02 18:56:09,360:INFO: Clents' learning rate: 0.1
+2023-06-02 18:56:09,360:INFO: ================================================================================
+2023-06-02 18:56:09,498:INFO: Users in total: 10
+2023-06-02 18:56:09,758:INFO: Number of users per round / total users: 10 / 10
+2023-06-02 18:56:09,758:INFO: Finished creating FedAvg server.
+2023-06-02 18:56:09,759:INFO: 
+
+-------------Round number: 0 -------------
+
+
+2023-06-02 18:57:06,583:INFO: ================================================================================
+2023-06-02 18:57:06,583:INFO: Summary of normal model training process:
+2023-06-02 18:57:06,583:INFO: Dataset: CIFAR10-alpha50.0-ratio1.0-users10
+2023-06-02 18:57:06,583:INFO: model: resnet18
+2023-06-02 18:57:06,583:INFO: Device: cpu
+2023-06-02 18:57:06,584:INFO: Number of global rounds: 150
+2023-06-02 18:57:06,584:INFO: Number of local rounds: 10
+2023-06-02 18:57:06,584:INFO: Clents' learning rate: 0.1
+2023-06-02 18:57:06,584:INFO: ================================================================================
+2023-06-02 18:57:06,723:INFO: Users in total: 10
+2023-06-02 18:57:06,986:INFO: Number of users per round / total users: 10 / 10
+2023-06-02 18:57:06,986:INFO: Finished creating FedAvg server.
+2023-06-02 18:57:06,987:INFO: 
+
+-------------Round number: 0 -------------
+
+
+2023-06-02 19:01:22,350:INFO: ================================================================================
+2023-06-02 19:01:22,350:INFO: Summary of normal model training process:
+2023-06-02 19:01:22,350:INFO: Dataset: CIFAR10-alpha50.0-ratio1.0-users10
+2023-06-02 19:01:22,350:INFO: model: resnet18
+2023-06-02 19:01:22,350:INFO: Device: cpu
+2023-06-02 19:01:22,350:INFO: Number of global rounds: 150
+2023-06-02 19:01:22,350:INFO: Number of local rounds: 10
+2023-06-02 19:01:22,350:INFO: Clents' learning rate: 0.1
+2023-06-02 19:01:22,350:INFO: ================================================================================
+2023-06-02 19:01:43,826:INFO: ================================================================================
+2023-06-02 19:01:43,826:INFO: Summary of normal model training process:
+2023-06-02 19:01:43,826:INFO: Dataset: CIFAR10-alpha50.0-ratio1.0-users10
+2023-06-02 19:01:43,826:INFO: model: resnet18
+2023-06-02 19:01:43,826:INFO: Device: cpu
+2023-06-02 19:01:43,826:INFO: Number of global rounds: 150
+2023-06-02 19:01:43,826:INFO: Number of local rounds: 10
+2023-06-02 19:01:43,826:INFO: Clents' learning rate: 0.1
+2023-06-02 19:01:43,826:INFO: ================================================================================
+2023-06-02 19:07:20,998:INFO: ================================================================================
+2023-06-02 19:07:20,998:INFO: Summary of normal model training process:
+2023-06-02 19:07:20,998:INFO: Dataset: CIFAR10-alpha50.0-ratio1.0-users10
+2023-06-02 19:07:20,998:INFO: model: resnet18
+2023-06-02 19:07:20,998:INFO: Device: cpu
+2023-06-02 19:07:20,998:INFO: Number of global rounds: 150
+2023-06-02 19:07:20,998:INFO: Number of local rounds: 10
+2023-06-02 19:07:20,998:INFO: Clents' learning rate: 0.1
+2023-06-02 19:07:20,998:INFO: ================================================================================
+2023-06-02 19:07:21,135:INFO: Users in total: 10
+2023-06-02 19:07:21,395:INFO: Number of users per round / total users: 10 / 10
+2023-06-02 19:07:21,395:INFO: Finished creating FedAvg server.
+2023-06-02 19:07:21,396:INFO: 
+
+-------------Round number: 0 -------------
+
+
+2023-06-02 19:08:07,358:INFO: ================================================================================
+2023-06-02 19:08:07,359:INFO: Summary of normal model training process:
+2023-06-02 19:08:07,359:INFO: Dataset: CIFAR10-alpha50.0-ratio1.0-users10
+2023-06-02 19:08:07,359:INFO: model: resnet18
+2023-06-02 19:08:07,359:INFO: Device: cpu
+2023-06-02 19:08:07,359:INFO: Number of global rounds: 150
+2023-06-02 19:08:07,359:INFO: Number of local rounds: 10
+2023-06-02 19:08:07,359:INFO: Clents' learning rate: 0.1
+2023-06-02 19:08:07,359:INFO: ================================================================================
+2023-06-02 19:08:07,779:INFO: Users in total: 10
+2023-06-02 19:08:08,039:INFO: Number of users per round / total users: 10 / 10
+2023-06-02 19:08:08,039:INFO: Finished creating FedAvg server.
+2023-06-02 19:08:08,040:INFO: 
+
+-------------Round number: 0 -------------
+
+
+2023-06-02 19:09:17,894:INFO: Average Global Accurancy = 0.1051, Loss = 2.30.
+2023-06-02 19:09:17,896:INFO: Best Global Accurancy = 0.1051, Loss = 2.30, Iter = 0.
+2023-06-02 19:31:07,070:INFO: ================================================================================
+2023-06-02 19:31:07,070:INFO: Summary of normal model training process:
+2023-06-02 19:31:07,070:INFO: Dataset: CIFAR10-alpha50.0-ratio1.0-users10
+2023-06-02 19:31:07,070:INFO: model: resnet18
+2023-06-02 19:31:07,070:INFO: Device: cpu
+2023-06-02 19:31:07,070:INFO: Number of global rounds: 150
+2023-06-02 19:31:07,070:INFO: Number of local rounds: 10
+2023-06-02 19:31:07,070:INFO: Clents' learning rate: 0.1
+2023-06-02 19:31:07,070:INFO: ================================================================================
+2023-06-02 19:31:07,586:INFO: Users in total: 10
+2023-06-02 19:31:07,853:INFO: Number of users per round / total users: 10 / 10
+2023-06-02 19:31:07,853:INFO: Finished creating FedAvg server.
+2023-06-02 19:31:07,853:INFO: 
+
+-------------Round number: 0 -------------
+
+
+2023-06-02 19:32:16,603:INFO: Average Global Accurancy = 0.1051, Loss = 2.30.
+2023-06-02 19:32:16,603:INFO: Best Global Accurancy = 0.1051, Loss = 2.30, Iter = 0.
+2023-06-02 19:33:33,319:INFO: ================================================================================
+2023-06-02 19:33:33,319:INFO: Summary of normal model training process:
+2023-06-02 19:33:33,319:INFO: Dataset: CIFAR10-alpha50.0-ratio1.0-users10
+2023-06-02 19:33:33,319:INFO: model: resnet18
+2023-06-02 19:33:33,320:INFO: Device: cpu
+2023-06-02 19:33:33,320:INFO: Number of global rounds: 150
+2023-06-02 19:33:33,320:INFO: Number of local rounds: 10
+2023-06-02 19:33:33,320:INFO: Clents' learning rate: 0.1
+2023-06-02 19:33:33,320:INFO: ================================================================================
+2023-06-02 19:33:33,833:INFO: Users in total: 10
+2023-06-02 19:33:34,097:INFO: Number of users per round / total users: 10 / 10
+2023-06-02 19:33:34,097:INFO: Finished creating FedAvg server.
+2023-06-02 19:33:34,097:INFO: 
+
+-------------Round number: 0 -------------
+
+
+2023-06-02 19:34:49,518:INFO: Average Global Accurancy = 0.1051, Loss = 2.30.
+2023-06-02 19:34:49,519:INFO: Best Global Accurancy = 0.1051, Loss = 2.30, Iter = 0.
+2023-06-02 19:46:49,690:INFO: ================================================================================
+2023-06-02 19:46:49,690:INFO: Summary of normal model training process:
+2023-06-02 19:46:49,690:INFO: Dataset: CIFAR10-alpha50.0-ratio1.0-users10
+2023-06-02 19:46:49,690:INFO: model: resnet18
+2023-06-02 19:46:49,690:INFO: Device: cpu
+2023-06-02 19:46:49,690:INFO: Number of global rounds: 150
+2023-06-02 19:46:49,690:INFO: Number of local rounds: 10
+2023-06-02 19:46:49,690:INFO: Clents' learning rate: 0.1
+2023-06-02 19:46:49,690:INFO: ================================================================================
+2023-06-02 20:07:27,568:INFO: ================================================================================
+2023-06-02 20:07:27,568:INFO: Summary of normal model training process:
+2023-06-02 20:07:27,568:INFO: Dataset: CIFAR10-alpha50.0-ratio1.0-users10
+2023-06-02 20:07:27,568:INFO: model: resnet18
+2023-06-02 20:07:27,568:INFO: Device: cpu
+2023-06-02 20:07:27,568:INFO: Number of global rounds: 150
+2023-06-02 20:07:27,568:INFO: Number of local rounds: 10
+2023-06-02 20:07:27,568:INFO: Clents' learning rate: 0.1
+2023-06-02 20:07:27,568:INFO: ================================================================================
+2023-06-02 20:07:28,018:INFO: Users in total: 10
+2023-06-02 20:07:28,281:INFO: Number of users per round / total users: 10 / 10
+2023-06-02 20:07:28,281:INFO: Finished creating FedAvg server.
+2023-06-02 20:07:28,281:INFO: 
+
+-------------Round number: 0 -------------
+
+
+2023-06-02 20:07:51,798:INFO: ================================================================================
+2023-06-02 20:07:51,798:INFO: Summary of normal model training process:
+2023-06-02 20:07:51,798:INFO: Dataset: CIFAR10-alpha50.0-ratio1.0-users10
+2023-06-02 20:07:51,798:INFO: model: resnet18
+2023-06-02 20:07:51,798:INFO: Device: cpu
+2023-06-02 20:07:51,798:INFO: Number of global rounds: 150
+2023-06-02 20:07:51,798:INFO: Number of local rounds: 10
+2023-06-02 20:07:51,798:INFO: Clents' learning rate: 0.1
+2023-06-02 20:07:51,798:INFO: ================================================================================
+2023-06-02 20:07:51,985:INFO: Users in total: 10
+2023-06-02 20:07:52,255:INFO: Number of users per round / total users: 10 / 10
+2023-06-02 20:07:52,255:INFO: Finished creating FedAvg server.
+2023-06-02 20:07:52,256:INFO: 
+
+-------------Round number: 0 -------------
+
+
+2023-06-02 20:10:42,862:INFO: ================================================================================
+2023-06-02 20:10:42,863:INFO: Summary of normal model training process:
+2023-06-02 20:10:42,863:INFO: Dataset: CIFAR10-alpha50.0-ratio1.0-users10
+2023-06-02 20:10:42,863:INFO: model: resnet18
+2023-06-02 20:10:42,863:INFO: Device: cpu
+2023-06-02 20:10:42,863:INFO: Number of global rounds: 150
+2023-06-02 20:10:42,863:INFO: Number of local rounds: 10
+2023-06-02 20:10:42,863:INFO: Clents' learning rate: 0.1
+2023-06-02 20:10:42,863:INFO: ================================================================================
+2023-06-02 20:10:43,044:INFO: Users in total: 10
+2023-06-02 20:10:43,310:INFO: Number of users per round / total users: 10 / 10
+2023-06-02 20:10:43,310:INFO: Finished creating FedAvg server.
+2023-06-02 20:10:43,311:INFO: 
+
+-------------Round number: 0 -------------
+
+
+2023-06-02 20:14:07,639:INFO: ================================================================================
+2023-06-02 20:14:07,640:INFO: Summary of normal model training process:
+2023-06-02 20:14:07,640:INFO: Dataset: CIFAR10-alpha50.0-ratio1.0-users10
+2023-06-02 20:14:07,640:INFO: model: resnet18
+2023-06-02 20:14:07,640:INFO: Device: cpu
+2023-06-02 20:14:07,640:INFO: Number of global rounds: 150
+2023-06-02 20:14:07,640:INFO: Number of local rounds: 10
+2023-06-02 20:14:07,640:INFO: Clents' learning rate: 0.1
+2023-06-02 20:14:07,640:INFO: ================================================================================
+2023-06-02 20:14:07,824:INFO: Users in total: 10
+2023-06-02 20:14:08,090:INFO: Number of users per round / total users: 10 / 10
+2023-06-02 20:14:08,090:INFO: Finished creating FedAvg server.
+2023-06-02 20:14:08,090:INFO: 
+
+-------------Round number: 0 -------------
+
+
+2023-06-02 20:15:17,391:INFO: Average Global Accurancy = 0.1000, Loss = 13966.66.
+2023-06-02 20:15:17,392:INFO: Best Global Accurancy = 0.1000, Loss = 13966.66, Iter = 0.
+2023-06-02 21:05:22,335:INFO: ================================================================================
+2023-06-02 21:05:22,336:INFO: Summary of normal model training process:
+2023-06-02 21:05:22,336:INFO: Dataset: CIFAR10-alpha50.0-ratio1.0-users10
+2023-06-02 21:05:22,336:INFO: model: resnet18
+2023-06-02 21:05:22,336:INFO: Device: cpu
+2023-06-02 21:05:22,336:INFO: Number of global rounds: 150
+2023-06-02 21:05:22,336:INFO: Number of local rounds: 10
+2023-06-02 21:05:22,336:INFO: Clents' learning rate: 0.1
+2023-06-02 21:05:22,336:INFO: ================================================================================
+2023-06-02 21:05:22,882:INFO: Users in total: 10
+2023-06-02 21:05:23,149:INFO: Number of users per round / total users: 10 / 10
+2023-06-02 21:05:23,150:INFO: Finished creating FedAvg server.
+2023-06-02 21:05:23,150:INFO: 
+
+-------------Round number: 0 -------------
+
+
+2023-06-02 21:06:32,152:INFO: Average Global Accurancy = 0.1000, Loss = 13966.66.
+2023-06-02 21:06:32,153:INFO: Best Global Accurancy = 0.1000, Loss = 13966.66, Iter = 0.
+2023-06-02 21:31:54,164:INFO: ================================================================================
+2023-06-02 21:31:54,164:INFO: Summary of normal model training process:
+2023-06-02 21:31:54,164:INFO: Dataset: CIFAR10-alpha50.0-ratio1.0-users10
+2023-06-02 21:31:54,164:INFO: model: resnet18
+2023-06-02 21:31:54,164:INFO: Device: cpu
+2023-06-02 21:31:54,164:INFO: Number of global rounds: 150
+2023-06-02 21:31:54,164:INFO: Number of local rounds: 10
+2023-06-02 21:31:54,164:INFO: Clents' learning rate: 0.1
+2023-06-02 21:31:54,164:INFO: ================================================================================
+2023-06-02 21:31:54,683:INFO: Users in total: 10
+2023-06-02 21:31:54,939:INFO: Number of users per round / total users: 10 / 10
+2023-06-02 21:31:54,939:INFO: Finished creating FedAvg server.
+2023-06-02 21:31:54,940:INFO: 
+
+-------------Round number: 0 -------------
+
+
+2023-06-02 21:33:01,018:INFO: Average Global Accurancy = 0.1000, Loss = 13966.66.
+2023-06-02 21:33:01,019:INFO: Best Global Accurancy = 0.1000, Loss = 13966.66, Iter = 0.
+2023-06-02 23:23:07,955:INFO: ================================================================================
+2023-06-02 23:23:07,955:INFO: Summary of normal model training process:
+2023-06-02 23:23:07,955:INFO: Dataset: CIFAR10-alpha50.0-ratio1.0-users10
+2023-06-02 23:23:07,955:INFO: model: resnet18
+2023-06-02 23:23:07,955:INFO: Device: cpu
+2023-06-02 23:23:07,955:INFO: Number of global rounds: 150
+2023-06-02 23:23:07,955:INFO: Number of local rounds: 10
+2023-06-02 23:23:07,955:INFO: Clents' learning rate: 0.1
+2023-06-02 23:23:07,955:INFO: ================================================================================
+2023-06-02 23:23:08,139:INFO: Users in total: 10
+2023-06-02 23:23:08,398:INFO: Number of users per round / total users: 10 / 10
+2023-06-02 23:23:08,398:INFO: Finished creating FedAvg server.
+2023-06-02 23:23:08,398:INFO: 
+
+-------------Round number: 0 -------------
+
+
+2023-06-02 23:24:19,777:INFO: Average Global Accurancy = 0.1000, Loss = 13966.66.
+2023-06-02 23:24:19,777:INFO: Best Global Accurancy = 0.1000, Loss = 13966.66, Iter = 0.
